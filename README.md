@@ -59,8 +59,8 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ## 📊 GitHub Stats
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreamartina-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreamartina-dev&layout=compact&theme=radical)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrea16martina&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrea16martina&layout=compact&theme=radical)
 
 ---
 
