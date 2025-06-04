@@ -34,7 +34,7 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ## 📌 Featured Projects
 
-### 🔎 [Social Media Analyzer](https://deepnote.com/workspace/Social-Media-Mining-Progetto-e181aa51-8c4c-4767-9c6e-2fb7853b4928/project/Andrea-Martinas-Untitled-project-a0ab343d-cc7b-42c0-80f0-0c5d62da699d/notebook/Data-Gathering-8ef698fd814d46b9a8dc7e4d8c09d140?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=a0ab343d-cc7b-42c0-80f0-0c5d62da699d)
+### 🔎 [Social Media Analyzer](https://deepnote.com/workspace/Social-Media-Mining-Project-7ea5d0be-1b39-4e39-aa40-6413790a6c36/project/Social-Media-Analyzer-Project-to-Analyze-Youtube-Channel-1c0129d4-1c28-4a60-b6a1-1e26bf403598/notebook/Project-14b36c05d5ef42a79c6f1ea232d6936a?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=1c0129d4-1c28-4a60-b6a1-1e26bf403598)
 > Automated analysis of YouTube comments using Python. Includes sentiment detection, user segmentation and visual reports.
 
 **Highlights**: Machine learning, clustering, data visualization, community insights.
