@@ -17,16 +17,18 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ## 🛠️ Skills & Technologies
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23007ACC.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Languages:** Java, Kotlin, Python, JavaScript  
+- **Languages:** Kotlin, Python, PHP, JavaScript, SQL  
 - **Mobile:** Android Studio, Jetpack Compose, React Native  
-- **Web:** HTML, CSS, JS, APIs (OpenAI, Google Cloud AI)  
+- **Web:** React, HTML, CSS, JS, APIs (OpenAI, Google Cloud AI)  
 - **Dev Tools:** Git, GitHub, Docker, Deepnote  
 - **Other:** AI prompt engineering, sentiment analysis, social media mining
 
