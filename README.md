@@ -45,10 +45,11 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ---
 
-### ☁️ [Smart Cloud Deployment UI](https://github.com/andreamartina-dev/smart-cloud-deployment)
-> Web interface for cloud-edge orchestration of composite services. Developed during my university internship.
+### ☁️ [Smart Cloud Deployment UI](https://github.com/andrea16martina/smart-cloud-deployment)  
+> Interactive drag-and-drop interface for designing and deploying service workflows in cloud-edge environments. Built during my university internship.
 
-**Highlights**: Frontend design, React-based UI, support for microservice deployment.
+**Highlights**: React UI, graph-based workflow builder, switch nodes, service customization.
+
 
 ---
 
