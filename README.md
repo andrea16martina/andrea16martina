@@ -53,6 +53,14 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ---
 
+
+### 🚚 [Delivery App – Kotlin](https://github.com/andrea16martina/delivery-app-kotlin)
+> Native Android app for real-time food delivery and order tracking.  
+
+**Highlights**: Kotlin, Jetpack Compose, dynamic restaurant list, multi-screen navigation, MapBox live tracking.
+
+---
+
 ## 💬 Soft Skills
 
 - 🧠 Self-driven and curious
