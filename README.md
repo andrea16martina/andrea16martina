@@ -61,6 +61,13 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ---
 
+### 📱 [Delivery App – React Native](https://github.com/andrea16martina/delivery-app-react-native)  
+Cross-platform delivery app with real-time order tracking and map integration.
+
+**Highlights**: React Native, reusable components, navigation between screens, MapBox, real-time geolocation updates.
+
+---
+
 ## 💬 Soft Skills
 
 - 🧠 Self-driven and curious
