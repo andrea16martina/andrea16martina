@@ -82,7 +82,8 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 - 💼 [LinkedIn](https://linkedin.com/in/andmar-7137a41aa)  
 - 🌐 [Website / Portfolio](https://your-personal-site.com) 
-- 📄 [Download my CV](https://your-link-to-cv.com)
+- 📄 [Download my CV](https://github.com/andrea16martina/andrea16martina/raw/main/Andrea_Martina_CV4Git.pdf)
+
 
 ---
 
