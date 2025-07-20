@@ -54,8 +54,8 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 
 ---
 
-🤖 [Supabase to Google Sheets – Daily Email Sync (RPA)](https://github.com/andrea16martina/mailingListRPA)  
-This automation workflow built in UiPath Studio Web automatically syncs daily email addresses from a Supabase database into a Google Sheet.
+### 🤖 [Supabase to Google Sheets – Daily Email Sync (RPA)](https://github.com/andrea16martina/mailingListRPA)  
+> This automation workflow built in UiPath Studio Web automatically syncs daily email addresses from a Supabase database into a Google Sheet.
 
 **Highlights**: RPA automation, REST API integration, scheduled sync.
 
