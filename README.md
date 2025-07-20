@@ -2,7 +2,7 @@
 
 🎓 Computer Science for Digital Communication graduate  
 💡 Passionate about software development, AI, and digital autonomy  
-🌍 Based in Italy | 🌐 [LinkedIn](https://linkedin.com/in/andmar-7137a41aa) | 📄[Download CV](https://github.com/andrea16martina/andrea16martina/raw/main/Andrea_Martina_CV4Git.pdf) | 🌐[Website](https://andreamartina.vercel.app)
+🌍 Based in Italy | 💼 [LinkedIn](https://linkedin.com/in/andmar-7137a41aa) | 📄[Download CV](https://github.com/andrea16martina/andrea16martina/raw/main/Andrea_Martina_CV4Git.pdf) | 🌐[Website](https://andreamartina.vercel.app)
 
 
 ---
