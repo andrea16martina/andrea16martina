@@ -26,11 +26,16 @@ My academic and personal projects aim to build smart, efficient, and ethical sol
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%23007ACC.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)
 
 - **Languages:** Kotlin, Python, PHP, JavaScript, SQL  
 - **Mobile:** Android Studio, Jetpack Compose, React Native  
 - **Web:** React, HTML, CSS, JS, APIs (OpenAI, Google Cloud AI)  
 - **Dev Tools:** Git, GitHub, Docker, Deepnote  
+- **Automation & Deployment:** UiPath (RPA), Hugging Face (Transformers + Spaces), Vercel, Render, basic backend deployments (Dockerized or static)
 - **Other:** AI prompt engineering, sentiment analysis, social media mining
 
 ---
